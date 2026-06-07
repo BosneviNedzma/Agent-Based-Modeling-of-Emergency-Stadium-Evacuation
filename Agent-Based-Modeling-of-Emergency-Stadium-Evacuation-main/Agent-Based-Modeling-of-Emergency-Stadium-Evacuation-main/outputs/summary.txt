@@ -1,0 +1,4 @@
+Evacuation simulation summary
+Warm-up period: 7.5s odbačeno
+Scenarij A total_time: 78.90s
+Scenarij B total_time: 68.40s
