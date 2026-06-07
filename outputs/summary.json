@@ -1,0 +1,48 @@
+{
+  "scenario_a": {
+    "n_agents": 600,
+    "n_evacuated": 600,
+    "total_time": 35.450000000000124,
+    "mean_time": 13.054083333333335,
+    "median_time": 11.975000000000001,
+    "std_time": 7.097377155897491,
+    "p90_time": 23.01,
+    "max_time": 35.4,
+    "throughput_avg": 16.92524682651616,
+    "time_to_25pct": 7.4,
+    "time_to_50pct": 11.975000000000001,
+    "time_to_75pct": 17.7625,
+    "time_to_90pct": 23.01,
+    "density_peak": {
+      "frame_index": 492,
+      "cell": [
+        0,
+        30
+      ],
+      "count": 29
+    }
+  },
+  "scenario_b": {
+    "n_agents": 600,
+    "n_evacuated": 600,
+    "total_time": 29.400000000000283,
+    "mean_time": 12.205916666666669,
+    "median_time": 11.5,
+    "std_time": 6.084583181538038,
+    "p90_time": 20.815000000000005,
+    "max_time": 29.35,
+    "throughput_avg": 20.408163265305927,
+    "time_to_25pct": 7.300000000000001,
+    "time_to_50pct": 11.5,
+    "time_to_75pct": 16.45,
+    "time_to_90pct": 20.815000000000005,
+    "density_peak": {
+      "frame_index": 494,
+      "cell": [
+        0,
+        17
+      ],
+      "count": 25
+    }
+  }
+}

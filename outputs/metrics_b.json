@@ -1,0 +1,23 @@
+{
+  "n_agents": 600,
+  "n_evacuated": 600,
+  "total_time": 29.400000000000283,
+  "mean_time": 12.205916666666669,
+  "median_time": 11.5,
+  "std_time": 6.084583181538038,
+  "p90_time": 20.815000000000005,
+  "max_time": 29.35,
+  "throughput_avg": 20.408163265305927,
+  "time_to_25pct": 7.300000000000001,
+  "time_to_50pct": 11.5,
+  "time_to_75pct": 16.45,
+  "time_to_90pct": 20.815000000000005,
+  "density_peak": {
+    "frame_index": 494,
+    "cell": [
+      0,
+      17
+    ],
+    "count": 25
+  }
+}

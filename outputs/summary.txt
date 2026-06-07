@@ -1,0 +1,3 @@
+Evacuation simulation summary
+Scenario A total_time: 35.45s
+Scenario B total_time: 29.40s
